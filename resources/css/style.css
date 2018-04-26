@@ -1,0 +1,31 @@
+html {
+  font-family: Verdana;
+  text-align: center;
+  background-color: Black;
+}
+
+h1  {
+  font-size: 50px;
+  color: White;
+  font-weight: normal;
+}
+
+.class {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2  {
+  font-size: 42px;
+  font-weight: 300;
+  color: White;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+.legalities {
+  text-align: right;
+}
